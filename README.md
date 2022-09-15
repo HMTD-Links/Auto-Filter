@@ -37,7 +37,7 @@
 <details><summary>Deploy From Bot</summary>
 <p>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=VGVjaG5vTWluZHovQ29tbW9uQm90X0Zvcl9BbGwgbWFzdGVy">
+<a href="https://heroku.com/deploy">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
